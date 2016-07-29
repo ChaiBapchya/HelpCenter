@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\GANESH\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.1.3\a3bd5f9dd0a98914faee607d51e22ae172cad4a\MPAndroidChart-v2.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0a3bd5f9dd0a98914faee607d51e22ae172cad4a">
+        <dex dex="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.1.3-d2c68ae9038076853aba07d49cb33fd4bb12d9a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\GANESH\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-7b562e65fc455a9b7ab82958e7e74a266efdd213.jar" />
+    </item>
+    <item
+        jar="C:\Users\GANESH\.gradle\caches\modules-2\files-2.1\com.microsoft.azure\azure-mobile-services-android-sdk\2.0.3\5de03bab93697321e5654831bb98df11ad4c19ac\azure-mobile-services-android-sdk-2.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5de03bab93697321e5654831bb98df11ad4c19ac">
+        <dex dex="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\pre-dexed\debug\azure-mobile-services-android-sdk-2.0.3-329fefdb65814be5843a40e15a16defa5d04a5a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\GANESH\.gradle\caches\modules-2\files-2.1\com.michaelpardo\activeandroid\3.1.0-SNAPSHOT\4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08\activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT-e7a641fcc5b5e3bc244d0ae1a7989cc337c53a06.jar" />
+    </item>
+    <item
+        jar="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f61181528d587cc6fe45719e4560153935d374c2">
+        <dex dex="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\pre-dexed\debug\classes-0d5ed1a1c4fb40aa1182bc018d560406edf035c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\pre-dexed\debug\classes-af0f454c1c9730742b215d0bbd1a3c2af12ed69d.jar" />
+    </item>
+    <item
+        jar="C:\Users\GANESH\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\pre-dexed\debug\guava-18.0-8cdfcbd9704f01d16574ae05517601af186953a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\pre-dexed\debug\classes-0a9e6d612d1af47b2570c285e7620c28326aa131.jar" />
+    </item>
+    <item
+        jar="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\pre-dexed\debug\classes-696e78ef2f85a3f189ace46af3949ddbab46047e.jar" />
+    </item>
+    <item
+        jar="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\pre-dexed\debug\classes-a3e1c726cdc4bbd0e0d600625891f2fa8c669e1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\pre-dexed\debug\classes-572bdf2f9db9015b9cd0a6966c20d4b776a8be43.jar" />
+    </item>
+    <item
+        jar="C:\Users\GANESH\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\pre-dexed\debug\gson-2.3-52e72443d19330efcc75abe34ecb2fc9ad5153f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\exploded-aar\com.daimajia.numberprogressbar\library\1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4196173ec5799ff211761f90874802789c6cc4ac">
+        <dex dex="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\pre-dexed\debug\classes-fa9730358780e01492fa6adef4d9b6c661ba7f5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\GANESH\Desktop\WT PROJECT\HelpCenter\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-a1bfe521db070d7a202b6dfc085d7322d081f911.jar" />
+    </item>
+
+</items>

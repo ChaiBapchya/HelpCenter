@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.ReminderActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="You need to take the following medicine: "
+        android:textSize="30dp"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/reminder_medicine_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Calcicare "
+        android:textSize="30dp"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/reminder_name_text"
+
+        />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Order more?"
+        android:id="@+id/checkBox"
+        android:checked="false"
+        android:onClick="itemClicked"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" TAKEN"
+            android:textSize="20dp"
+            android:layout_weight="0.5"
+            android:id="@+id/reminder_medtaken_btn"/>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SNOOZE"
+            android:textSize="20dp"
+            android:layout_weight="0.5"
+            android:id="@+id/reminder_snooze_btn"
+            />
+    </LinearLayout>
+
+</LinearLayout>

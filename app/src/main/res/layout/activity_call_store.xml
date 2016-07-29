@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_weight="1"
+    tools:context="com.gpnv.helpcenter.CallNotification"
+    tools:showIn="@layout/activity_call_notification">
+    >
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_weight="0.8"
+        android:textSize="30sp"
+
+        android:gravity="center"
+        android:text="OOPs!!! Seems like you're Medicines are getting over! :("/>
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_weight="1.5"
+        android:textSize="30sp"
+        android:text="Dont worry! Get them ordered now :)"/>
+    <Button
+        android:id="@+id/call_store"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_gravity="center_horizontal"
+        android:text="CALL STORE"
+        android:textSize="25sp"
+        />
+
+
+</LinearLayout>

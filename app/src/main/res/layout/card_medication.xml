@@ -1,0 +1,51 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <android.support.v7.widget.CardView
+        xmlns:card="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/medication_card_view"
+        android:layout_marginBottom="16dp"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        card:cardElevation="@dimen/cardview_default_elevation"
+        card:contentPadding="12dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:id="@+id/medication_medicine_name"
+                        android:textSize="25sp"
+                        android:layout_marginBottom="4dp"
+                        android:layout_width="226dp"
+                        android:layout_height="wrap_content"
+                        android:text="Calcicare"/>
+                    <TextView
+                        android:id="@+id/medication_medicine_time"
+                        android:layout_gravity="right"
+                        android:textSize="12sp"
+                        android:layout_width="84dp"
+                        android:layout_height="wrap_content"
+                        android:text="1/5 pills taken today"/>
+                </LinearLayout>
+                <TextView
+                    android:id="@+id/medication_medicine_stock"
+                    android:textSize="15sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#AA0000"
+                    android:text="5 pills left"/>
+            </LinearLayout>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

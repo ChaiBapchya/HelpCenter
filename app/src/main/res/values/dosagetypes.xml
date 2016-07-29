@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dosage_types">
+        <item>Pills</item>
+        <item>Spoons</item>
+    </string-array>
+</resources>

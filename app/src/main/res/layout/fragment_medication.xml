@@ -1,0 +1,143 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.gpnv.helpcenter.main_activity_fragments.MedicationFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/medication_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </android.support.v7.widget.RecyclerView>
+        <!--<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        xmlns:card="http://schemas.android.com/apk/res-auto"
+        android:layout_marginBottom="16dp"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        card:cardElevation="@dimen/cardview_default_elevation"
+        card:contentPadding="12dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:textSize="25sp"
+                        android:layout_marginBottom="4dp"
+                        android:layout_width="226dp"
+                        android:layout_height="wrap_content"
+                        android:text="Calcicare"/>
+                    <TextView
+                        android:layout_gravity="right"
+                        android:textSize="12sp"
+                        android:layout_width="84dp"
+                        android:layout_height="wrap_content"
+                        android:text="1/5 pills taken today"/>
+                </LinearLayout>
+                <TextView
+                    android:textSize="15sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#AA0000"
+                    android:text="5 pills left"/>
+            </LinearLayout>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        xmlns:card="http://schemas.android.com/apk/res-auto"
+        android:layout_marginBottom="16dp"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        card:cardElevation="@dimen/cardview_default_elevation"
+        card:contentPadding="12dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:textSize="25sp"
+                        android:layout_marginBottom="4dp"
+                        android:layout_width="225dp"
+                        android:layout_height="wrap_content"
+                        android:text="Accuzyme"/>
+                    <TextView
+                        android:layout_gravity="right"
+                        android:textSize="12sp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="0/4 pills taken for today"/>
+                </LinearLayout>
+                <TextView
+                    android:textSize="15sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#00BB00"
+                    android:text="20 pills left"/>
+            </LinearLayout>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        xmlns:card="http://schemas.android.com/apk/res-auto"
+        android:layout_marginBottom="16dp"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        card:cardElevation="@dimen/cardview_default_elevation"
+        card:contentPadding="12dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:textSize="25sp"
+                        android:layout_marginBottom="4dp"
+                        android:layout_width="228dp"
+                        android:layout_height="wrap_content"
+                        android:text="Belviq"/>
+                    <TextView
+                        android:text="No pills for today"
+                        android:layout_gravity="right"
+                        android:textSize="12sp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+                <TextView
+                    android:text="Unknown"
+                    android:textSize="15sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#AA0000" />
+            </LinearLayout>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>
+-->
+</FrameLayout>
